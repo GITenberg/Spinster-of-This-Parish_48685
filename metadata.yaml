@@ -1,4 +1,8 @@
 _repo: Spinster-of-This-Parish_48685
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 48685-h/images/cover.jpg
 creator:
   author:
     agent_name: Maxwell, W. B. (William Babington)
@@ -9,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5590
     wikipedia: http://en.wikipedia.org/wiki/W._B._Maxwell
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48685#Spinster-of-This-Parish
 gutenberg_issued: '2015-04-12'
 gutenberg_type: Text
 identifiers:
